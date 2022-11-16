@@ -1,2 +1,2 @@
-export type { Issue } from './issues'
+export { type Issue, State } from './issues'
 export type { Label } from './label'
